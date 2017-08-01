@@ -6,3 +6,4 @@ Git is free software.
 git
 git changes aaabbbb
 cccccccccccccc
+Creating a new branch is quick.
